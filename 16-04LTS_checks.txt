@@ -1382,7 +1382,7 @@ Real time 1.878 s, CPU time 1.82s
 --------------------------------------------
 ==============================================================
 
-4) check the digits:
+4) check the Digits:
 
 root.exe .x CheckDigits_mft.C+(10,100,"TGeant3")
 
@@ -1394,7 +1394,7 @@ File CheckDigits.root produced.
 --------------------------------------------
 ==============================================================
 
-5) check the digits:
+5) check the Clusters:
 
 root.exe .x CheckClusters_mft.C+(10,100,"TGeant3")
 
